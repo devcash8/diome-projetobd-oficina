@@ -6,6 +6,11 @@ Este projeto é um sistema de gerenciamento de ordens de serviço para uma ofici
 
 Gerenciar o fluxo de ordens de serviço desde a entrada do veículo até a conclusão dos serviços, incluindo a associação de peças e mão de obra.
 
+## Diagrama Conceitual
+
+![OFICINA PROJETO](https://github.com/user-attachments/assets/2209186c-d213-45d7-a221-3e6861a6bdf1)
+
+
 ## Tabelas e Relacionamentos
 
 1. **Cliente**: Armazena informações sobre os clientes.
